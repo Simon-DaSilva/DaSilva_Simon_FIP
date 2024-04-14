@@ -1,0 +1,48 @@
+img, embed, object, video, picture {
+    max-width: 100%; 
+  }
+  
+  
+  html {
+    box-sizing: border-box; 
+  }
+  
+  *, *::before, *::after {
+    box-sizing: inherit; 
+  }
+  
+  
+  body, p, h1, h2, h3, h4, h5 {
+     margin: 0px; 
+     padding: 0px;
+  }
+  
+  
+  .hidden {
+     display: none;
+  }
+  
+  .box {
+     background-color: #6A8FFF;
+     color:white;
+     border-radius: 15px;
+     padding: 15px;
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom:10px;
+   }
+  
+
+   .navigate {
+    background-color: #CAE949;
+    height: 71px;
+   }
+
+   .footer {
+    background-color: #6A8FFF;
+    height: 150px;
+   }
+  
+a {
+    color: white;
+}
