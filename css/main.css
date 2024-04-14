@@ -32,17 +32,37 @@ img, embed, object, video, picture {
      margin-bottom:10px;
    }
   
+   .space {
+    margin-top: 30px;
+   }
 
    .navigate {
     background-color: #CAE949;
-    height: 71px;
+    height: auto;
    }
+
+   .back {
+    background-color: #B0ECFF;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   }
+
+ 
 
    .footer {
     background-color: #6A8FFF;
-    height: 150px;
+    height: 200px;
+    color: #CAE949;
    }
   
 a {
     color: white;
+}
+
+.kanit {
+    font-family: "Kanit", sans-serif;
+}
+
+.inika {
+    font-family: "Inika", sans-serif;
 }
