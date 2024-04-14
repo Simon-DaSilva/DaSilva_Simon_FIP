@@ -53,6 +53,7 @@ img, embed, object, video, picture {
     background-color: #6A8FFF;
     height: 200px;
     color: #CAE949;
+    
    }
   
 a {
@@ -65,4 +66,14 @@ a {
 
 .inika {
     font-family: "Inika", sans-serif;
+}
+
+#info-con {
+    display: contents;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
 }
